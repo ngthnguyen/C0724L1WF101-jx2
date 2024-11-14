@@ -38,7 +38,7 @@ const SignInForm = () => {
           </div>
           <div className="checkbox mb-3">
             <label>
-              <input type="checkbox" /> Remember me
+              <input type="checkbox" /> 
             </label>
           </div>
           <button className="w-100 btn btn-lg btn-primary" type="submit">
